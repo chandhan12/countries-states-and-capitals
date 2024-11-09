@@ -1,5 +1,6 @@
 # Getting Started with Create React App
 
+![image](https://github.com/chandhan12/countries-states-and-capitals/blob/master/capiatals%20assigniment.png)
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
